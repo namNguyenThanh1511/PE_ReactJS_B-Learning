@@ -1,0 +1,2 @@
+format data trước khi lưu xuống database  : YYYY/MM/DD
+=>Thư viện Moment JS
